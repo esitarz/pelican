@@ -107,7 +107,7 @@ pre-populated with certain information gleaned from other answers provided
 during the ``pelican-quickstart`` process, are meant as a starting point and
 should be customized to fit your particular needs and usage patterns. If you
 find one or both of these automation tools to be of limited utility, these
-files can deleted at any time and will not affect usage of the canonical
+files can be deleted at any time and will not affect usage of the canonical
 ``pelican`` command.
 
 Following are automation tools that "wrap" the ``pelican`` command and can
